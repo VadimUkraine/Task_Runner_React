@@ -1,0 +1,9 @@
+#userName, #userEmail, #userText{
+  margin-right: 5px;
+  margin-left: 5px;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+.confirm:hover{
+	cursor: pointer;
+}

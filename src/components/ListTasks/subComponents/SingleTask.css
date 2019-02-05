@@ -1,0 +1,51 @@
+.task_wrap{
+	border-bottom: 1px solid grey;
+	width: 700px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	padding-bottom: 5px;
+}
+
+.task_title{
+	text-align: center;
+}
+
+.task_checkbox{
+	width: 20px;
+	margin-right: 30px;
+}
+
+.btn_edit{
+	margin-bottom: 4px;
+	cursor: pointer;
+	width: 50px;
+	margin-left: 30px;
+}
+
+.task_item_name{
+	margin-bottom: 5px;
+	width: 100px;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.task_item_email{
+	margin-bottom: 5px;
+	width: 150px;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 30px;
+}
+
+.task_item_task{
+	margin-bottom: 5px;
+	width: 200px;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 30px;
+}
